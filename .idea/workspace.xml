@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5a72752-ff38-403c-acfb-fdca70546e26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/pygame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/CarBlue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/CarRed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/LeftBump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/RightBump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/Road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/barrier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/base2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/car-racing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/cliff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/crossing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/pipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/roadcar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_fence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_ramp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_tree_city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_tree_conifer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/sprite_tree_dead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/swoosh.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pygame/Car-racing/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/text-editor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1le0c8YuHfkh8JP8Ub8tgKpmgC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a72752-ff38-403c-acfb-fdca70546e26" name="Default Changelist" comment="" />
+      <created>1607942328339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607942328339</updated>
+    </task>
+    <servers />
+  </component>
+</project>
